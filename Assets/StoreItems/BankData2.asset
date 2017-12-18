@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2c09705bcd6a094183b662b9637fd8f, type: 3}
+  m_Name: BankData2
+  m_EditorClassIdentifier: 
+  id: com.game.item_3
+  coinsAmount: 5
+  localizedPrice: $3
+  icon: {fileID: 21300000, guid: b31a4c24e6de4ff4b8bc75a70e647521, type: 3}
+  iconName: coin3
