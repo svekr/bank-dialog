@@ -22,7 +22,6 @@ public class BankController : MonoBehaviour {
             if (rectTransform != null) {
                 distance = rectTransform.rect.xMax;
             }
-            distance = 180;
 
             if (dataProvider != null && dataProvider.bankItems != null) {
                 int counter = 0;
